@@ -22,3 +22,4 @@ else
     lib.Message.New("Dupe error! Caused due to: Members in bank detected. Please remove members from your bank!");
 end
 game.Players.LocalPlayer:Kick("Join after 1 Minute-2 hours!")
+
